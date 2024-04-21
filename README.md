@@ -13,6 +13,10 @@ These three are by far, the closest to my actual face:
 <img width="1440" alt="Screenshot 2024-04-21 at 16 32 53" src="https://github.com/mgnarag/Generative-AI/assets/60250923/f2df489d-01a5-4e11-9503-15c8590e2bd4">
 
 
+For the record, here are my training images. My caption for all the images is just "Jem", my nickname:
+<img width="1439" alt="Screenshot 2024-04-22 at 07 13 03" src="https://github.com/mgnarag/Generative-AI/assets/60250923/a2146238-318a-47cc-a3a0-8346790fc213">
+
+
 
 
 
