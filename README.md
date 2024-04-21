@@ -15,8 +15,9 @@ These two images looks like me inside a laboratory class. The shape of my face i
 <img width="1440" alt="Screenshot 2024-04-21 at 16 32 53" src="https://github.com/mgnarag/Generative-AI/assets/60250923/f2df489d-01a5-4e11-9503-15c8590e2bd4">
 
 
-For the record, here are my training images. My caption for all the images is just "Jem", my nickname:
+For the record, here are my training images. My caption for all the images is just "Jem", my nickname.
 <img width="1439" alt="Screenshot 2024-04-22 at 07 13 03" src="https://github.com/mgnarag/Generative-AI/assets/60250923/a2146238-318a-47cc-a3a0-8346790fc213">
+One reason why the shape of my face is _not there_ can perhaps be attributed to my training images. All of them are too different. In my version 5, I actually took 30 selfies with minimal pose changes and consistent background. It actually got my face correct but the skin tone is not there. 
 
 
 
